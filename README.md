@@ -8,7 +8,34 @@ I design and develop new projects in different computer science fields like **Io
 
 Currently, I’m **Software Factory Lead in TIM S.p.A**, the largest Telco company in Italy.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=carmelolg&show_icons=true&custom_title=Stats)](https://github.com/anuraghazra/github-readme-stats)
+### Tech & Skills ###
+
+Main technologies and tools I work on/with:
+
+![Static Badge](https://img.shields.io/badge/Language-Java-red?style=flat&logo=openjdk&color=dc3545)
+![Static Badge](https://img.shields.io/badge/Language-Javascript/Nodejs-red?style=flat&logoColor=white&logo=javascript&color=dc3545)
+![Static Badge](https://img.shields.io/badge/Language-Python-red?style=flat&logoColor=white&logo=Python&color=dc3545)
+![Static Badge](https://img.shields.io/badge/Language-Android-red?style=flat&logo=android&logoColor=white&color=dc3545)
+![Static Badge](https://img.shields.io/badge/Language-Kotlin-red?style=flat&logo=kotlin&logoColor=white&color=dc3545)
+![Static Badge](https://img.shields.io/badge/Framework-Spring%20Boot-red?style=flat&logo=spring%20boot&logoColor=white&color=dc3545)
+![Static Badge](https://img.shields.io/badge/Framework-Angular-red?style=flat&logo=angular&color=dc3545)
+![Static Badge](https://img.shields.io/badge/Platform-Kubernetes-red?style=flat&logo=kubernetes&logoColor=white&color=dc3545)
+![Static Badge](https://img.shields.io/badge/Platform-Google%20Cloud%20Platform-red?style=flat&logo=google%20cloud&logoColor=white&color=dc3545)
+![Static Badge](https://img.shields.io/badge/Platform-Heroku-red?style=flat&logo=heroku&logoColor=white&color=dc3545)
+![Static Badge](https://img.shields.io/badge/AI%20platform-OpenAI-red?style=flat&logo=openai&logoColor=white&color=dc3545)
+![Static Badge](https://img.shields.io/badge/AI%20platform-Poe-red?style=flat&logo=poe&logoColor=white&color=dc3545)
+![Static Badge](https://img.shields.io/badge/AI%20platform-Langchain-red?style=flat&logo=langchain&logoColor=white&color=dc3545)
+![Static Badge](https://img.shields.io/badge/Versioning-Git-red?style=flat&logo=git&logoColor=white&color=dc3545)
+
+
+
+
+
+### GitHub stats ###
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=carmelolg&show_icons=true&custom_title=%20&theme=transparent&bg_color=dc3545dd&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **carmelolg/carmelolg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
