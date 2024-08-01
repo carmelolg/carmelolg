@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+My name is **Carmelo La Gamba** and I’m a computer scientist (M.Sc in Computer Science) from Italy 🇮🇹
+
+I'm skilled in **cloud-based architectures, enterprise applications and team leading**. 
+
+I design and develop new projects in different computer science fields like **IoT and Artificial Intelligence**.
+
+Currently, I’m **Software Factory Lead in TIM S.p.A**, the largest Telco company in Italy.
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=carmelolg&show_icons=true&custom_title=Stats)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **carmelolg/carmelolg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
