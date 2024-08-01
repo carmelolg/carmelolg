@@ -33,7 +33,7 @@ Main technologies and tools I work on/with:
 
 ### GitHub stats ###
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=carmelolg&show_icons=true&custom_title=%20&theme=transparent&bg_color=dc3545dd&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=carmelolg&show_icons=true&hide_title=true&theme=transparent&bg_color=dc3545dd&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
