@@ -6,7 +6,8 @@ I'm skilled in **cloud-based architectures, enterprise applications and team lea
 
 I design and develop new projects in different computer science fields like **IoT and Artificial Intelligence**.
 
-Currently, I’m **Software Factory Lead in TIM S.p.A**, the largest Telco company in Italy.
+Previously, I was **Software Factory Lead in TIM S.p.A**, the largest Telco company in Italy.
+Currently, I am a **Senior Software Engineer at Intesa Sanpaolo S.p.A**, one of the largest banks in Europe.
 
 ### Tech & Skills ###
 
