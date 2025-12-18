@@ -23,11 +23,9 @@ Main technologies and tools I work on/with:
 ![Static Badge](https://img.shields.io/badge/Platform-Kubernetes-red?style=flat&logo=kubernetes&logoColor=white&color=dc3545)
 ![Static Badge](https://img.shields.io/badge/Platform-Google%20Cloud%20Platform-red?style=flat&logo=google%20cloud&logoColor=white&color=dc3545)
 ![Static Badge](https://img.shields.io/badge/Platform-Heroku-red?style=flat&logo=heroku&logoColor=white&color=dc3545)
-![Static Badge](https://img.shields.io/badge/AI%20platform-OpenAI-red?style=flat&logo=openai&logoColor=white&color=dc3545)
-![Static Badge](https://img.shields.io/badge/AI%20platform-Poe-red?style=flat&logo=poe&logoColor=white&color=dc3545)
-![Static Badge](https://img.shields.io/badge/AI%20platform-Perplexity-red?style=flat&logo=poe&logoColor=white&color=dc3545)
 ![Static Badge](https://img.shields.io/badge/AI%20Framework-Langchain-red?style=flat&logo=langchain&logoColor=white&color=dc3545)
-![Static Badge](https://img.shields.io/badge/AI%20Framework-Ollama-red?style=flat&logo=langchain&logoColor=white&color=dc3545)
+![Static Badge](https://img.shields.io/badge/AI%20Framework-Ollama-red?style=flat&logo=ollama&logoColor=white&color=dc3545)
+![Static Badge](https://img.shields.io/badge/AI%20Framework-Agents-red?style=flat&logo=agent&logoColor=white&color=dc3545)
 ![Static Badge](https://img.shields.io/badge/Versioning-Git-red?style=flat&logo=git&logoColor=white&color=dc3545)
 
 
