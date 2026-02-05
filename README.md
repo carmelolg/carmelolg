@@ -6,7 +6,7 @@ Currently, **Senior Software Engineer at Intesa Sanpaolo S.p.A**, one of Europe'
 Previously, **Software Factory Lead at TIM S.p.A**, Italy's largest telco company.
 
 My work bridges **cloud-native architectures**, **enterprise applications**, and **AI-driven systems**.  
-I'm passionate about building innovative solutions across **IoT, AI, and distributed software platforms** — focusing on scalability, reliability, and clean design.
+I'm passionate about building innovative solutions across **IoT, AI, and distributed software platforms** focusing on scalability, reliability, and clean design.
 
 ---
 
@@ -36,21 +36,20 @@ I'm passionate about building innovative solutions across **IoT, AI, and distrib
 ![Git](https://img.shields.io/badge/Git-7B6CC2?style=flat&logo=git&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-
 <!-- red: dc3545 -->
-
+<!-- 
+### 📊 GitHub Stats
 [![Carmelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=carmelolg&show_icons=true&hide_title=true&theme=transparent&bg_color=F5F7FF&title_color=6C8CD5&text_color=333333&icon_color=6C8CD5)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
+ -->
 
-### 📦 Archive
+###  Organizations
 
 - 🗃️ [**org-carmelolg-archive**](https://github.com/org-carmelolg-archive) – Archived projects and legacy code repositories.  
+- 🖥️ [**org-carmelolg-private-labs**](https://github.com/org-carmelolg-private-labs) – Experimental projects and R&D initiatives.
 
 ---
 
-### 🌐 Let’s Connect
+### 🌐 Social
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/carmelolagamba)
