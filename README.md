@@ -2,7 +2,7 @@
 
 **Computer Scientist (M.Sc.)** | Italy 🇮🇹  
 
-Currently, **Senior Software Engineer at Intesa Sanpaolo S.p.A**, one of Europe's leading banks.  
+Currently, **Software Architect and Senior Software Engineer at Intesa Sanpaolo S.p.A**, one of Europe's leading banks.  
 Previously, **Software Factory Lead at TIM S.p.A**, Italy's largest telco company.
 
 My work bridges **cloud-native architectures**, **enterprise applications**, and **AI-driven systems**.  
