@@ -9,7 +9,7 @@ My work bridges **cloud-native architectures**, **enterprise applications**, and
 I'm passionate about building innovative solutions across **IoT, AI, and distributed software platforms** focusing on scalability, reliability, and clean design.
 
 ---
-
+<!-- 
 ### 💻 Core Skills & Technologies
 
 **Languages**<br>
@@ -36,6 +36,7 @@ I'm passionate about building innovative solutions across **IoT, AI, and distrib
 ![Git](https://img.shields.io/badge/Git-7B6CC2?style=flat&logo=git&logoColor=white)
 
 ---
+ -->
 <!-- red: dc3545 -->
 <!-- 
 ### 📊 GitHub Stats
@@ -48,8 +49,12 @@ I'm passionate about building innovative solutions across **IoT, AI, and distrib
 - 🗃️ [**org-carmelolg-archive**](https://github.com/org-carmelolg-archive) – Archived projects and legacy code repositories.  
 - 🖥️ [**org-carmelolg-private-labs**](https://github.com/org-carmelolg-private-labs) – Experimental projects and R&D initiatives.
 
+<!-- 
 ---
 
-### 🌐 Social
+### Social
 
+- 🌐 [Website](https://carmelolg.github.io)
+- 📝 [Tech Blog](https://carmelolg.github.io/it-is-worth-a-coke)
 - 💼 [LinkedIn](https://www.linkedin.com/in/carmelolagamba)
+ -->
