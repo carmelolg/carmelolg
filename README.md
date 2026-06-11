@@ -48,6 +48,7 @@ I'm passionate about building innovative solutions across **IoT, AI, and distrib
 
 - 🗃️ [**org-carmelolg-archive**](https://github.com/org-carmelolg-archive) – Archived projects and legacy code repositories.  
 - 🖥️ [**org-carmelolg-private-labs**](https://github.com/org-carmelolg-private-labs) – Experimental projects and R&D initiatives.
+- 📝 [**Jinbocho**](https://github.com/Jinbocho) - Jinbocho is an open-source home library management system designed to help families catalog, organize, and rediscover their physical book collections.
 
 <!-- 
 ---
