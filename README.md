@@ -46,9 +46,9 @@ I'm passionate about building innovative solutions across **IoT, AI, and distrib
 
 ###  Organizations
 
-- 🗃️ [**carmelolg-archive**](https://github.com/carmelolg-archive) – Archived projects and legacy code repositories.  
-- 🖥️ [**carmelolg-labs**](https://github.com/carmelolg-labs) – Experimental projects and R&D initiatives.
-- <img src="https://github.com/jinbocho/jinbocho.github.io/blob/58d0beff24089f3d9abdf3ba8e3274188a6882e9/assets/jinbocho-logo.png" alt="Jinbocho Logo" width="20" height="20" /> [**Jinbocho**](https://github.com/Jinbocho) - Jinbocho is an open-source home library management system designed to help families catalog, organize, and rediscover their physical book collections.
+- <img src="https://github.com/carmelolg-archive.png" alt="carmelolg-archive Logo" width="20" height="20" style="vertical-align: middle;" /> [**carmelolg-archive**](https://github.com/carmelolg-archive) - Archived projects and legacy code repositories.
+- <img src="https://github.com/carmelolg-labs.png" alt="carmelolg-labs Logo" width="20" height="20" style="vertical-align: middle;" /> [**carmelolg-labs**](https://github.com/carmelolg-labs) - Experimental projects and R&D initiatives.
+- <img src="https://github.com/jinbocho/jinbocho.github.io/blob/58d0beff24089f3d9abdf3ba8e3274188a6882e9/assets/jinbocho-logo.png" alt="Jinbocho Logo" width="20" height="20" style="vertical-align: middle;" /> [**Jinbocho**](https://github.com/Jinbocho) - Jinbocho is an open-source home library management system designed to help families catalog, organize, and rediscover their physical book collections.
 
 <!-- 
 ---
